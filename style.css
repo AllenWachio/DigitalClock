@@ -36,7 +36,7 @@ body{
 }
 .container::before{
     content: "";
-    width: 180px;
+    width: 190px;
     height: 180px;
     background: #f41b75;
     border-radius: 5px;
