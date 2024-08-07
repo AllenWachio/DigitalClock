@@ -4,7 +4,7 @@ Welcome to the Digital Clock project! This is a simple and cool web-based clock 
 
 ## How to Use
 
-1. Go to the Digital Clock website (https://digital-clock-app.com).
+1. Go to the Digital Clock website ([https://digital-clock-app.com](https://allenwachio.github.io/DigitalClock/)).
 2. You'll see a large digital display showing the current time in hours, minutes, and seconds.
 3. The time updates in real-time, so you'll always see the accurate current time without having to refresh the page.
 4. It's that simple! Sit back and watch the time change as every second passes.
